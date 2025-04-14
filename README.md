@@ -4,6 +4,8 @@
 
 Dashboard interativo para análise avançada de dados de futebol utilizando a API StatsBomb.
 
+Link para execução do dashboard: https://appfut-avq8fswnlb8d3cdldfoslu.streamlit.app/
+
 ### Visão Geral
 Este projeto permite a exploração detalhada de dados de partidas de futebol, incluindo visualizações de passes, chutes, comparação entre jogadores e análise temporal dos eventos.
 
