@@ -10,38 +10,27 @@ Este projeto permite a exploração detalhada de dados de partidas de futebol, i
 ### Funcionalidades Principais
 
 🏆 Seleção de Competições
-Escolha entre diversas competições disponíveis
-
-Filtro por temporada específica
-
-Seleção de partidas individuais
+- Escolha entre diversas competições disponíveis
+- Filtro por temporada específica
+- Seleção de partidas individuais
 
 📊 Visualizações de Jogo
-Mapa de passes com direção e frequência
-
-Mapa de chutes com localização no campo
-
-Estatísticas comparativas entre times
-
-Relação entre passes e chutes por equipe
+- Mapa de passes com direção e frequência
+- Mapa de chutes com localização no campo
+- Estatísticas comparativas entre times
+- Relação entre passes e chutes por equipe
 
 ⚽ Análise de Jogadores
-Filtro por jogador específico
-
-Métricas individuais (chutes, passes, dribles)
-
-Mapas personalizados por jogador
-
-Exportação de dados em CSV
+- Filtro por jogador específico
+- Métricas individuais (chutes, passes, dribles)
+- Mapas personalizados por jogador
+- Exportação de dados em CSV
 
 ⏱️ Filtros Avançados
-Intervalo de tempo personalizado
-
-Quantidade de eventos a visualizar
-
-Comparação entre dois jogadores
-
-Filtro por tipo de evento (passes, chutes)
+- Intervalo de tempo personalizado
+- Quantidade de eventos a visualizar
+- Comparação entre dois jogadores
+- Filtro por tipo de evento (passes, chutes)
 
 ### Como Executar
 Instale as dependências:
