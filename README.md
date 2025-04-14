@@ -1,9 +1,6 @@
 # streamlit_fut
 
 ### Análise de Dados de Futebol com StatsBomb
-Python
-Streamlit
-StatsBomb
 
 Dashboard interativo para análise avançada de dados de futebol utilizando a API StatsBomb.
 
