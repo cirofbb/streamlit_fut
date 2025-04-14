@@ -8,6 +8,7 @@ Dashboard interativo para análise avançada de dados de futebol utilizando a AP
 Este projeto permite a exploração detalhada de dados de partidas de futebol, incluindo visualizações de passes, chutes, comparação entre jogadores e análise temporal dos eventos.
 
 ### Funcionalidades Principais
+
 🏆 Seleção de Competições
 Escolha entre diversas competições disponíveis
 
