@@ -40,6 +40,7 @@ pip install streamlit pandas statsbombpy mplsoccer seaborn matplotlib
 Execute o aplicativo:
 
 streamlit run AT.py
+
 Estrutura do Código
 ```
 .
