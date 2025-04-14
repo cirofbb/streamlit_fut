@@ -41,12 +41,13 @@ Execute o aplicativo:
 
 streamlit run AT.py
 Estrutura do Código
-text
-Copy
+```
 .
 ├── AT.py                # Aplicativo principal
 ├── requirements.txt     # Dependências
 └── README.md            # Este arquivo
+
+```
 
 Dependências
 - Python 3.8+
